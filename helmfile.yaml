@@ -42,12 +42,6 @@ releases:
   version: 0.0.114
   name: jx-preview
   namespace: jx
-- chart: stable/nginx-ingress
-  version: 1.39.1
-  name: nginx-ingress
-  namespace: nginx
-  values:
-  - versionStream/charts/stable/nginx-ingress/values.yaml.gotmpl
 - chart: jenkins-x/lighthouse
   version: 0.0.865
   name: lighthouse
