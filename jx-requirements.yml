@@ -17,7 +17,7 @@ cluster:
   gitServer: https://github.com
   namespace: jx
   project:  ""
-  provider: kubernetes
+  provider: openshift
   registry: "ghcr.io"
   zone: ""
 environments:
