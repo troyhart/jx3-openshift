@@ -1,3 +1,3 @@
-# jx3-kubernetes
+# jx3-openshift
 
-Jenkins X 3.x GitOps repository for a vanilla Kubernetes cluster
+Jenkins X 3.x GitOps repository for an OpenSift cluster
