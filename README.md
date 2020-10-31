@@ -8,5 +8,5 @@ Before you try to install Jenkins X please make sure you have [installed Tekton 
 
 Then:
 
-* Create a [git repository])(https://github.com/jx3-gitops-repositories/jx3-openshift/generate)
+* Create a [git repository](https://github.com/jx3-gitops-repositories/jx3-openshift/generate)
 * Run the [git operator](https://jenkins-x.io/docs/v3/guides/operator/)
