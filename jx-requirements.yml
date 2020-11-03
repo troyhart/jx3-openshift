@@ -33,7 +33,6 @@ environments:
 gitops: true
 ingress:
   domain: ""
-  exposer: Route
   externalDNS: false
   namespaceSubDomain: -jx.
   tls:
